@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EvgeniyPryanichnikov/ra-layouts/static/css/main.fc704576.css",
+    "main.js": "/EvgeniyPryanichnikov/ra-layouts/static/js/main.771cb081.js",
+    "static/js/787.290568d9.chunk.js": "/EvgeniyPryanichnikov/ra-layouts/static/js/787.290568d9.chunk.js",
+    "index.html": "/EvgeniyPryanichnikov/ra-layouts/index.html",
+    "main.fc704576.css.map": "/EvgeniyPryanichnikov/ra-layouts/static/css/main.fc704576.css.map",
+    "main.771cb081.js.map": "/EvgeniyPryanichnikov/ra-layouts/static/js/main.771cb081.js.map",
+    "787.290568d9.chunk.js.map": "/EvgeniyPryanichnikov/ra-layouts/static/js/787.290568d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc704576.css",
+    "static/js/main.771cb081.js"
+  ]
+}

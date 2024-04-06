@@ -2,7 +2,7 @@
 ===
 [![Build status](https://ci.appveyor.com/api/projects/status/2vldm7n5xdvgydi8?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/ra-layouts)
 
-deployment: 
+deployment: https://evgeniypryanichnikov.github.io/ra-layouts/
 
 Вам необоходимо сделать приложение для отображения товаров в интернет-магазине. Заказчик хочет, чтобы пользователь мог увидеть товары в виде карточек или в виде списка, в зависимости от того, какое расположение он выберет. 
 

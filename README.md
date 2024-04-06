@@ -1,6 +1,6 @@
 Расположение товаров
 ===
-
+[![Build status](https://ci.appveyor.com/api/projects/status/2vldm7n5xdvgydi8?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/ra-layouts)
 
 deployment: 
 
